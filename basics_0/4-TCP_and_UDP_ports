@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# -l It is used to make Netcat open a port and keep listening.
+#-p This option allows you to specify the port to connect to.
+
+
+
+nc -l localhost 98
